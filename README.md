@@ -7,7 +7,7 @@
 * [Mouse Study Summary](#Mouse-Study-Summary)
 * [Data Imports](#Data-Imports)
 * [Bar Chart and Pie Charts](#Bar-Charts-and-Pie-Charts)
-* [Calculate](#calculate-quartiles-find-outliers-and-create-a-box-plot)
+* [Calculate Quartiles, Find Outliers, and Create a Box Plot](#calculate-quartiles-find-outliers-and-create-a-box-plot)
 * [Questions](#Questions)
 * [References](#References)
 
