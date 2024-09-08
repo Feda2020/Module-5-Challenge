@@ -17,7 +17,7 @@ The analysis is for the most recent animal study data from Pymaceuticals, Inc., 
 
 I was tasked with generating all of the tables and figures needed for the technical report of the clinical study and a top-level summary of the study results.
 
-### Mouse Study Summary
+## Mouse Study Summary
 
 This assignment is broken down into the following tasks:
 
@@ -29,7 +29,7 @@ This assignment is broken down into the following tasks:
 * Create a line plot and a scatter plot.
 * Calculate correlation and regression.
 
-### Data Imports
+## Data Imports
 
 Running the following package dependency and data imports:
 
@@ -38,14 +38,14 @@ Running the following package dependency and data imports:
 * import scipy.stats as st
 * from scipy.stats import linregress
 
-### Bar Charts and Pie Charts
+## Bar Charts and Pie Charts
 
 * Create the first bar chart with the Pandas DataFrame.plot() method.
 * Create the second bar chart with Matplotlib's pyplot methods.
 * Create the first pie chart with the Pandas DataFrame.plot() method.
 * Create the second pie chart with Matplotlib's pyplot methods.
 
-### Calculate Quartiles, Find Outliers, and Create a Box Plot
+## Calculate Quartiles, Find Outliers, and Create a Box Plot
 
 * Calculate the final tumor volume of each mouse across four of the most promising treatment regimens: Capomulin, Ramicane, Infubinol, and Ceftamin. Then, calculate the quartiles and IQR, and determine if there are any potential outliers across all four treatment regimens. Use the following substeps
 * Using Matplotlib, generate a box plot that shows the distribution of the final tumor volume for all the mice in each treatment group. Highlight any potential outliers in the plot by changing their color and style.
