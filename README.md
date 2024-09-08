@@ -4,10 +4,10 @@
 ## Table of contents
 
 * [Description](#Description)
-* [Mouse Study Summary](#Mouse_Study_Summary)
-* [Data Imports](#Data_Imports)
-* [Bar Chart and Pie Charts](#Bar_Charts_and_Pie_Charts)
-* [Calculate](#Calculate_Quartiles,_Find_Outliers,_and_Create_a_Box_Plot)
+* [Mouse Study Summary](#Mouse)
+* [Data Imports](#Data)
+* [Bar Chart and Pie Charts](#Bar)
+* [Calculate](#Calculate)
 * [Questions](#Questions)
 * [References](#References)
 
